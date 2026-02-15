@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="app_name">Алгоритмдер</string>
+    <string name="branching_algorithm">Тармақталған алгоритм</string>
+    <string name="cyclic_algorithm">Циклдік алгоритм</string>
+    <string name="finish">Аяқтау</string>
+    <string name="home">Басты бетке</string>
+    <string name="linear_algorithm">Сызықтық алгоритм</string>
+    <string name="next">Келесі</string>
+    <string name="retry">Қайта тапсыру</string>
+    <string name="take_test">Тест тапсыру</string>
+    <style name="Theme.AlgorithmApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#667eea</item>
+        <item name="colorPrimaryDark">#764ba2</item>
+        <item name="colorAccent">#F093FB</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+    </style>
+</resources>

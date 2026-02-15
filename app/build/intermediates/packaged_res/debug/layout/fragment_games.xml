@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="32dp"
+            android:layout_marginBottom="40dp"
+            android:text="Ойындар мен Тесттер"
+            android:textColor="@android:color/white"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/btnMatchingGame"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:text="🧩 Сәйкестендіру"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/button_home"/>
+
+        <Button
+            android:id="@+id/btnFindErrorGame"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:text="🐞 Қатені табу"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/button_retry"/>
+
+        <Button
+            android:id="@+id/btnSortCodeGame"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:text="🔀 Ретімен қою"
+            android:background="@drawable/button_linear"/>
+
+        <Button
+            android:id="@+id/btnTest"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_marginTop="16dp"
+            android:text="🎯 Тест тапсыру"
+            android:background="@drawable/button_test"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_button_test.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\button_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_button_branching.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\button_branching.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_ic_algorithm.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\ic_algorithm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_button_cyclic.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\button_cyclic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_sort_code_game.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_sort_code_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_fragment_games.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\fragment_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "com.example.algorithmapp-merged_res-31:/drawable_joystick.xml.flat",
+        "source": "com.example.algorithmapp-main-33:/drawable/joystick.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_fragment_algorithms.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\fragment_algorithms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_button_retry.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\button_retry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_ic_branching.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\ic_branching.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_ic_linear.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\ic_linear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_ic_cyclic.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\ic_cyclic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_button_home.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\button_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_button_linear.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\button_linear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_matching_game.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_matching_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_ic_games.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\ic_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.algorithmapp-merged_res-31:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.algorithmapp-main-33:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_item_answer.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\item_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_ic_algorithm_menu.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\ic_algorithm_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_test.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_algorithm_detail.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_algorithm_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_find_error_game.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_find_error_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\drawable_ic_trophy.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\drawable\\ic_trophy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_item_code_line.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\item_code_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-merged_res-31:\\layout_activity_answers.xml.flat",
+        "source": "C:\\Users\\Yernur\\.gradle\\daemon\\8.10\\com.example.algorithmapp-main-33:\\layout\\activity_answers.xml"
+    }
+]
